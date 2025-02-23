@@ -36,6 +36,7 @@ dependencies:
   - pip
   - pip:
   # computing stuff
+    - plotly
     - gmsh
     - meshio
     - matplotlib
