@@ -1,0 +1,18 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+chapters:
+- file: demos/1D case - Figure 5
+- file: demos/1D case - Figure 6 sequential
+- file: demos/1D case - Figure 7 simultaneous
+- file: demos/2D case - Figure 8
+- file: demos/2D case - Figure 9-10 Error and plots pyvista
+- file: demos/2D case - Figure 11 multi level
+- file: demos/2D case - Figure SVK
+- file: demos/2D case - Figure plots pyvista SVK
+- file: demos/2D case - Space_variability
+- file: demos/2D case - Space variability pyvista
+- file: demos/2D case - Table Error pretrained
+- file: demos/2D case - Interactive
