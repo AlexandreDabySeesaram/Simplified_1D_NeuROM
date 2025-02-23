@@ -7,7 +7,7 @@
 ################################################################################
 
 # FROM registry.gitlab.inria.fr/aldabyse/nn-pgd-demos:latest
-FROM ghcr.io/alexandredabyseesaram/fenni-ii-pgd-paper-demo:latest
+FROM ghcr.io/alexandredabyseesaram/simplified_1d_neurom:latest
 
 ARG NB_USER=jovyan
 ARG NB_UID=1000
