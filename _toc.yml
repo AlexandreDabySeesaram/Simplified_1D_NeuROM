@@ -4,6 +4,8 @@
 format: jb-book
 root: index
 chapters:
+- url: https://alexandredabyseesaram.github.io/
+  title: Alexandre Daby-Seesaram’s homepage
 - file: demos/1D_element_based
 - file: demos/1D_element_based_LBFGS
 
