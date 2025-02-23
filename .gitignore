@@ -1,0 +1,7 @@
+.DS_Store
+logo.svg
+*.msh
+*.vtk
+*.xml
+Results/*
+.gitlab-ci.yml
