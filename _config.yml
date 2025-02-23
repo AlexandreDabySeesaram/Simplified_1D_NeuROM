@@ -1,9 +1,9 @@
 ############################################################## Book settings ###
 
-title: Welcome to [Daby-Seesaram, Skardova & Genet, Submitted]'s demos!
-author: Alexandre Daby-Seesaram, Kateřina Skardova & Martin Genet
+title: Welcome to simplified NeuROM 1D's demos!
+author: Alexandre Daby-Seesaram
 logo: logo.png
-copyright: "2024"
+copyright: "2025"
 only_build_toc_files: true
 
 ######################################################### Execution settings ###
@@ -40,7 +40,7 @@ latex:
 ############################################################# Launch settings ###
 
 repository:
-  url: https://github.com/AlexandreDabySeesaram/FENNI-II-PGD-paper-demo
+  url: https://github.com/AlexandreDabySeesaram/Simplified_1D_NeuROM
   path_to_book: .
   branch: main
 
